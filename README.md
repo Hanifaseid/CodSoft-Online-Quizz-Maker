@@ -23,11 +23,11 @@ The **Online Quiz Maker** is an advanced web application designed to create, tak
 ## 🛠 Tech Stack
 
 - **Frontend:** React, Bootstrap, React Router
-- 
+  
 - **Backend:** Node.js, Express.js
-- 
+  
 - **Database:** MySQL
-- 
+  
 - **Authentication:** JWT (JSON Web Token)
 
 ---
