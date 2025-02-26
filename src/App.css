@@ -1,0 +1,38 @@
+/* src/App.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  h1, h2 {
+    color: #343a40;
+  }
+  
+  .container {
+    padding-top: 50px;
+  }
+  
+  button {
+    margin-top: 10px;
+  }
+  
+  .question-container {
+    margin-bottom: 20px;
+  }
+  
+  .mt-3 {
+    margin-top: 1rem;
+  }
+  
+  .mt-5 {
+    margin-top: 3rem;
+  }
+  .custom-blue-text {
+    color: #ff5e00; /* Bootstrap blue */
+  }
+  .hover-bg-purple-light:hover{
+    background-color: #d8bfd8 !important;
+  }
+  .hover-text-white:hover{
+    color: white !important;
+  }
